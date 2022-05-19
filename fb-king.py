@@ -73,7 +73,7 @@ def jalan(z):
 logo="""      
 
 \033[1;91m
-033[1;33m /$$$$$$$$ /$$$$$$$        /$$   /$$ /$$$$$$ /$$   /$$  /$$$$$$
+\033[1;33m /$$$$$$$$ /$$$$$$$        /$$   /$$ /$$$$$$ /$$   /$$  /$$$$$$
 \033[1;32m| $$_____/| $$__  $$      | $$  /$$/|_  $$_/| $$$ | $$ /$$__  $$
 \033[1;34m| $$      | $$  \ $$      | $$ /$$/   | $$  | $$$$| $$| $$  \__/
 \033[1;91m| $$__/   | $$__  $$      | $$  $$    | $$  | $$  $$$$| $$|_  $$
@@ -83,12 +83,20 @@ logo="""
 \033[1;33m
 \033[1;33m                                      Created by \033[1;33mMahin Ahmed
                                
-==================================================
-           CODED BY : THE JULKAR      
-           WHATSAPP : +88017298636**
-           FB PAGE  : JULKAR KING 
-==================================================           
-\x1b[0;91m\x1b[1;43m                  JULKAR BR4ND :)                 \x1b[0m"""
+\033[1;90m══════════════════════════════════════════════════
+
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFACEBOOK  : Mahin Ahmed
+
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFB GROUP   : BLACK MAFIA TEAM  
+
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mGITHUB       : FB-KING
+
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mWARNING   : ABLAMI KORBA TO THAP HOBE 
+
+\033[1;90m══════════════════════════════════════════════════
+
+           
+\x1b[0;91m\x1b[1;43m                  FB-KING BRAND :)                 \x1b[0m"""
 
 def hasil(OK,cp):
 	if not len(OK) != 0:
@@ -106,8 +114,8 @@ def julkar():
     todz = ''
     IP = ipm['origin']
     print
-    print(' [1] Start File Cloning')
-    print(' [2] KNOW ABOUT [THE JULKAR]')
+    print(' [1] \033[1;94mStart File Cloning')
+    print(' [2] KNOW ABOUT [FB-KING]')
     print(' [E] exit ')
     print('')
     _julkar___ = input(' [?] Choose option : ')
