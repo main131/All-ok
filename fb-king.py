@@ -146,7 +146,7 @@ class __xxx__:
             self.julkarx(id)
     def __metode__(self, user, __chi__, cebok):
         global ok,cp,loop
-        sys.stdout.write(f"\r \x1b[1;32m[THE JULKAR] {loop} >o< {len(self.id)} [OK][{len(ok)}] >×< [CP][{len(cp)}] ")
+        sys.stdout.write(f"\r \x1b[1;32m[FB-KING] {loop} >o< {len(self.id)} [OK][{len(ok)}] >×< [CP][{len(cp)}] ")
         sys.stdout.flush()
         try:
             for pw in __chi__:
